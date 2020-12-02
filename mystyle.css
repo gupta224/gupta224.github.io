@@ -1,0 +1,32 @@
+header
+{
+ background: rgb(225,253,255);
+background: linear-gradient(90deg, rgba(225,253,255,1) 0%, rgba(124,226,201,1) 69%); 
+font-family: roboto;
+}
+.col-md-4.col-12.text-center h2
+{
+	background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+    background-clip: border-box;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.active, .dot:hover
+{
+	background: transparent;
+}
+.dropdown-menu.show button
+{
+	width: 100%;
+}
+.navbar-brand
+{
+	font-size: 1rem;
+}
+.nav-item {
+    list-style-type: none;
+}
+#slider
+{
+	width: 75%;
+}
